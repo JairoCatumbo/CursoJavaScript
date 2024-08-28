@@ -1,6 +1,6 @@
 var t=7;
 for(var i=0;i<12;i++){
-    console.log("7"+ i +" = " + t*i);
+    console.log("7"+"x"+ i +" = " + t*i);
 
 }
 
